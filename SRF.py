@@ -81,8 +81,8 @@ print  "\033[1;91m======================================="
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/srfowner/csuking
 \033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/temoor.tanha.37
 \033[1;96mSRF_X_CSU_SE_PNGA_NA_LENA_KEO_K_PAPA_HE_TUMARY
-\033[1;91m======================================="""
-\033[1;91mSHANO_X__MAKER
+\033[1;91m======================================="
+\033[1;96mSHANO_X__MAKER
 print " \x1b[1;93m============================================================="
 CorrectUsername = "shanoxmanjeet"
 CorrectPassword = "omera"
